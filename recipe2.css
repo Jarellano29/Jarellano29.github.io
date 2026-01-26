@@ -1,0 +1,64 @@
+body{
+    background-color: #98f74a;
+    border: 10px solid #50bd22;
+    border-radius: 50px;
+}
+img{
+    border: 3px solid gold;
+    border-radius: 50px;
+    width: 300px;
+    height: 300px;
+}
+.tamales-verdes-1{
+    position: relative;
+    left: 475px;
+    bottom: 100px;
+}
+.tamales-verdes-2{
+    position: relative;
+    left: 50px;
+    bottom: 100px;
+}
+video{
+    position: relative;
+    left: 385px;
+    bottom: 25px;
+}
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.Ingredients{
+    text-align: center;
+    list-style-position: inside;
+    position: relative;
+    top: 125px;
+    right: 10px;
+}
+.introduction{
+    border: 10px solid #3c8a2d;
+    background-color: #3c8a2d;
+    border-radius: 50px;
+}
+.history{
+    border: 5px solid #49ab37;
+    background-color: #49ab37;
+    border-radius: 50px;
+}
+.directions{
+    border: 10px solid #3c8a2d;
+    background-color: #3c8a2d;
+    border-radius: 50px;
+}
+.instructions{
+    border: 5px solid #49ab37;
+    background-color: #49ab37;
+    border-radius: 50px;
+}
